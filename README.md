@@ -238,6 +238,7 @@
    ```
    sudo systemctl start gunicorn
    ```
+   ```
    sudo systemctl enable gunicorn
    ```
 30. Проверяем его статус:
